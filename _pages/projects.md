@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Featured content"
-permalink: /talks/
+permalink: /projects/
 author_profile: True
 ---
 

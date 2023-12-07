@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching and learning"
-permalink: /academics/
+permalink: /experience/
 author_profile: True
 ---
 
