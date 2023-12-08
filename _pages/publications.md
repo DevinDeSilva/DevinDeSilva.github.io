@@ -6,30 +6,25 @@ author_profile: true
 ---
 
 
-## Preprints
+## Peer-reviewed Conference Papers
 
-<b> MOSAIC: Masked Optimization with Selective Attention for Image Reconstruction</b><br/>
- P. Somarathne, <b>T. Wickremasinghe</b>, A.Niwarthana, A. Thieshanthan, C. Edussooriya, D. Wadduwage <br/>
-2023 Under review. <br/>
-[[arxiv](https://arxiv.org/abs/2306.00906)]
+<b> TEZARNet: TEmporal Zero-Shot Activity Recognition Network</b><br/>
+ Pathirage N Deelaka, <b>Devin Y De Silva</b>, Sandareka Wickramanayake, Dulani Meedeniya, Sanka Rasnayaka <br/>
+ICONIP 2023<br/>
+[[proceedings](https://link.springer.com/chapter/10.1007/978-981-99-8184-7_34)]
 &nbsp;
 
 
 
+## Preprints
+
+<b> SEZ-HARN: Self-Explainable Zero-shot Human Activity Recognition Network </b><br/>
+<b>Devin Y De Silva</b>, Pathirage N Deelaka, Sandareka Wickramanayake, Dulani Meedeniya, Sanka Rasnayaka<br/>
+In review at The 38th Annual AAAI Conference on Artificial Intelligence (AAAI).<br/>
+[[proceedings](https://github.com/nipdep/SEZ-HARN)]
 
 
-
-
-## Peer-reviewed Conference Papers
-
-<b> HPGNN: Using Hierarchical Graph Neural Networks for Outdoor Point Cloud Processing </b><br/>
-A. Thieshanthan, A. Niwarthana, P. Somarathne,<b> T. Wickremasinghe</b> and R. Rodrigo<br/>
-2022 IEEE International Conference on Pattern Recognition (ICPR).<br/>
-[[proceedings](https://www.computer.org/csdl/proceedings-article/icpr/2022/09956238/1IHpg8unl4c)]
-
-
-<b> Towards Real-time Traffic Sign and Traffic Light Detection on Embedded Systems </b><br/>
-O. Jayasinghe, S. Hemachandra, D.Anhettigama, S. Kariyawasam, <b>T. Wickremasinghe</b>, C. Ekanayaka, R. Rodrigo, P.Jayasekara<br/>
-2022 IEEE Intelligent Vehicles Symposium (IV)<br/>
-[[proceedings](https://ieeexplore.ieee.org/abstract/document/9827355)]
+<b> Geometric Perception based Efficient Text Recognition </b><br/>
+P.N.Deelaka, D.R.Jayakodi, <b>D.Y.Silva</b><br/>
+[[arvix](https://arxiv.org/abs/2302.03873)]
 
