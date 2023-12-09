@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Featured content"
-permalink: /projects/
+permalink: /projects/digitgen
 author_profile: True
 ---
 
@@ -10,7 +10,7 @@ author_profile: True
 # Articles
 
 <div>
-<b> <a href="https://ieeexplore.ieee.org/document/9664611">Digitgen </a></b> <br />
+<b> <a href="https://devindesilva.github.io/projects/digitgen">Digitgen </a></b> <br />
  python library that can be used to create synthetic scene text and digits with various noises. This is intended
 to create synthetic datasets for regular scene text recognition and currently have 19k downloads. <br />
 Technology:- OpenCV, Python, Github CI/CD
